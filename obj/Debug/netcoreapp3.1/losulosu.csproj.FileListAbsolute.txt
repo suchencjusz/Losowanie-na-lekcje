@@ -1,0 +1,15 @@
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.exe
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.deps.json
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.runtimeconfig.json
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.runtimeconfig.dev.json
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.dll
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\losulosu.pdb
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.csprojAssemblyReference.cache
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.AssemblyInfoInputs.cache
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.AssemblyInfo.cs
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.dll
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.pdb
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.genruntimeconfig.cache
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.csproj.CoreCompileInputs.cache
+C:\Users\suchencjusz\source\repos\losulosu\losulosu\obj\Debug\netcoreapp3.1\losulosu.csproj.CopyComplete
