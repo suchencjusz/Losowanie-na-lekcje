@@ -2453,11 +2453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suchencjusz\\source\\repos\\losulosu\\losulosu\\losulosu.csproj",
+      "projectUniqueName": "C:\\Users\\suchencjusz\\Desktop\\Losowanie-na-lekcje-master\\losulosu.csproj",
       "projectName": "losulosu",
-      "projectPath": "C:\\Users\\suchencjusz\\source\\repos\\losulosu\\losulosu\\losulosu.csproj",
+      "projectPath": "C:\\Users\\suchencjusz\\Desktop\\Losowanie-na-lekcje-master\\losulosu.csproj",
       "packagesPath": "C:\\Users\\suchencjusz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suchencjusz\\source\\repos\\losulosu\\losulosu\\obj\\",
+      "outputPath": "C:\\Users\\suchencjusz\\Desktop\\Losowanie-na-lekcje-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suchencjusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2472,6 +2472,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -2483,6 +2484,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Colorful.Console": {
             "target": "Package",
@@ -2499,22 +2501,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

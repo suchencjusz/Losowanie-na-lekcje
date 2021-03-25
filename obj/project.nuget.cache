@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+TrtOV8HacCyX8E+fDmobjPzG3hqVgaqldxeK4sSED62dBiJHhB5Ls/ovhWPlZahdumC5GquGUrOklGebtcGw==",
+  "dgSpecHash": "ZH4EttnXv8Dbszye+isK5RxTyewJc+nxmgxTJysyD97R+VMzHa+sXaVfsP4JgAWIze0IHysG4AGu3q3SQCekSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suchencjusz\\source\\repos\\losulosu\\losulosu\\losulosu.csproj",
+  "projectFilePath": "C:\\Users\\suchencjusz\\Desktop\\Losowanie-na-lekcje-master\\losulosu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suchencjusz\\.nuget\\packages\\colorful.console\\1.2.10\\colorful.console.1.2.10.nupkg.sha512",
     "C:\\Users\\suchencjusz\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -36,9 +36,7 @@
     "C:\\Users\\suchencjusz\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
     "C:\\Users\\suchencjusz\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
     "C:\\Users\\suchencjusz\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
-    "C:\\Users\\suchencjusz\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
-    "C:\\Users\\suchencjusz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\suchencjusz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\suchencjusz\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }

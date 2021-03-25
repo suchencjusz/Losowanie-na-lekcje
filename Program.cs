@@ -23,22 +23,17 @@ namespace losulosu
             Console.WriteLine("Podaj swój piękny numerek z dziennika", Color.Crimson);
             twojnumer = uint.Parse(Console.ReadLine());
 
-            Console.WriteLine("Podaj ilosc czynników wpływających na to jak bardzo masz przesrane (np 10)", Color.Crimson);
-            
-            int iloscczynnikow = int.Parse(Console.ReadLine());
-
             Console.WriteLine("Podaj liczby które będą uwzględnione do potężnych obliczeń,", Color.Crimson);
-            Console.WriteLine("(jak dales wczesniej 10 to daj 10 liczb np: 11 9 2020 13 56 23 43 81 29 69 )", Color.DarkRed);
 
             string czynnikiwstringuuu = Console.ReadLine();
 
-            uint[] czynniki = new uint[iloscczynnikow];
+            uint[] czynniki = new uint[czynnikiwstringuuu.Split(' ').Length];
 
             Console.WriteLine("");
             Console.WriteLine("Daj mi chwilę albo dwie", Color.Peru);
             Console.WriteLine("");
 
-            for (int i = 0; i < iloscczynnikow; i++)
+            for (int i = 0; i < czynnikiwstringuuu.Split(' ').Length; i++)
             {                
                 string[] liczs = czynnikiwstringuuu.Split(' ');
                 czynniki[i] = uint.Parse(liczs[i]);
